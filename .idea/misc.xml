@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Book Store/app/src/main/res/drawable-v24/ALLBOOK.xml" value="0.2465" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable-v24/allbook.xml" value="0.2465" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/backgroundforlogindesin.xml" value="0.12" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/bookname.xml" value="0.2465" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/editetext_back.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/email_back .xml" value="0.2135" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/googlebackground.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/gridian.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/ic_lock.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/ic_user_image.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/login_back1.xml" value="0.1185" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/login_back2.xml" value="0.114" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/login_background.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/signup.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/drawable/signupbutton.xml" value="0.2265" />
+        <entry key="..\:/Book Store/app/src/main/res/layout-land/login.xml" value="0.1" />
+        <entry key="..\:/Book Store/app/src/main/res/layout-sw600dp/login.xml" value="0.2060546875" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_book_details.xml" value="0.2359375" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_morty_screen.xml" value="0.10677083333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_second.xml" value="0.10989583333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_splash_screen.xml" value="0.12" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_top10_author.xml" value="0.25" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/activity_top_book_show.xml" value="0.2429245283018868" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/anything.xml" value="0.10260416666666666" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/check.xml" value="0.4" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/firstp.xml" value="0.25" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/firstpage.xml" value="0.25" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/iteamtopauthors.xml" value="0.25" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/iteamtopbooks.xml" value="0.1046875" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/recyclebook.xml" value="0.10989583333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/recyclemorty.xml" value="0.10677083333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/sell.xml" value="0.10989583333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/signup.xml" value="0.2" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/themainpage.xml" value="0.264" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/viewauth.xml" value="0.10989583333333333" />
+        <entry key="..\:/Book Store/app/src/main/res/layout/viewbook.xml" value="0.1" />
+        <entry key="..\:/Book Store/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/Book Store/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/Book Store/app/src/main/res/xml/network_security_config.xml" value="0.10989583333333333" />
+        <entry key="..\:/My Applocation2/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/check.xml" value="0.12" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/editetext_back.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/facebookbackground.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/googlebackground.xml" value="0.12" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/gridian.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_lock.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/ic_user_image.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/drawable/login_background.xml" value="0.12" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout-land/sherif.xml" value="0.1" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/activity_second.xml" value="0.10989583333333333" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/check.xml" value="0.536" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/sherif.xml" value="0.264" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/sherif2.xml" value="0.264" />
+        <entry key="..\:/MyApplication2/app/src/main/res/layout/sherif3.xml" value="0.8800000000000001" />
+        <entry key="..\:/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

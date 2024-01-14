@@ -1,0 +1,79 @@
+com.example.myapplication2.app-savedstate-ktx-1.2.0-0 C:\Users\original\.gradle\caches\transforms-3\00f2f498fb309b6849f7830ed8442819\transformed\savedstate-ktx-1.2.0\res
+com.example.myapplication2.app-recyclerview-1.2.1-1 C:\Users\original\.gradle\caches\transforms-3\1099277adbc0ebf482f2372bd7018f14\transformed\recyclerview-1.2.1\res
+com.example.myapplication2.app-slidingpanelayout-1.2.0-2 C:\Users\original\.gradle\caches\transforms-3\15b96423c86c6aff9d33b318baf16464\transformed\slidingpanelayout-1.2.0\res
+com.example.myapplication2.app-startup-runtime-1.1.1-3 C:\Users\original\.gradle\caches\transforms-3\1a4ccd155f27792150ab0e8d4a53fce8\transformed\startup-runtime-1.1.1\res
+com.example.myapplication2.app-fragment-ktx-1.5.4-4 C:\Users\original\.gradle\caches\transforms-3\1b06ffe4f24382023be8511496c248df\transformed\fragment-ktx-1.5.4\res
+com.example.myapplication2.app-emoji2-views-helper-1.2.0-5 C:\Users\original\.gradle\caches\transforms-3\1cbc0da2497422a27e11ea7d6f01a2fe\transformed\emoji2-views-helper-1.2.0\res
+com.example.myapplication2.app-emoji2-1.2.0-6 C:\Users\original\.gradle\caches\transforms-3\208994bac9da84de4dcd29224c15cd1d\transformed\emoji2-1.2.0\res
+com.example.myapplication2.app-appcompat-1.5.1-7 C:\Users\original\.gradle\caches\transforms-3\23c3336cef43bf69efb19a2f56514c54\transformed\appcompat-1.5.1\res
+com.example.myapplication2.app-lifecycle-livedata-2.5.1-8 C:\Users\original\.gradle\caches\transforms-3\2c113b2a24da18d071e881a5a5bd09a4\transformed\lifecycle-livedata-2.5.1\res
+com.example.myapplication2.app-lifecycle-process-2.4.1-9 C:\Users\original\.gradle\caches\transforms-3\2f4afb23dd5bb5dca8ada38d7aa08d21\transformed\lifecycle-process-2.4.1\res
+com.example.myapplication2.app-core-1.8.0-10 C:\Users\original\.gradle\caches\transforms-3\300548d40d71aea37958fed06e7aa314\transformed\core-1.8.0\res
+com.example.myapplication2.app-play-services-ads-22.0.0-11 C:\Users\original\.gradle\caches\transforms-3\3220e2aff1d4cbae58ff693b55f56efa\transformed\play-services-ads-22.0.0\res
+com.example.myapplication2.app-lifecycle-livedata-core-2.5.1-12 C:\Users\original\.gradle\caches\transforms-3\330a2a631e853d7bb119d70ac73a0420\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.myapplication2.app-viewpager2-1.0.0-13 C:\Users\original\.gradle\caches\transforms-3\36639bb8901012d07dc0a37c25a60df1\transformed\viewpager2-1.0.0\res
+com.example.myapplication2.app-fragment-1.5.4-14 C:\Users\original\.gradle\caches\transforms-3\39096a2781d3d0dd879ec0cf6d6e7f5b\transformed\fragment-1.5.4\res
+com.example.myapplication2.app-coordinatorlayout-1.1.0-15 C:\Users\original\.gradle\caches\transforms-3\39c4946cda2d72e481fed05fae44821a\transformed\coordinatorlayout-1.1.0\res
+com.example.myapplication2.app-room-ktx-2.4.3-16 C:\Users\original\.gradle\caches\transforms-3\3d78e32f68d608bb5ba52639a696a855\transformed\room-ktx-2.4.3\res
+com.example.myapplication2.app-lifecycle-runtime-2.5.1-17 C:\Users\original\.gradle\caches\transforms-3\3eccbc9c3cd9ab3ae27605699405fd58\transformed\lifecycle-runtime-2.5.1\res
+com.example.myapplication2.app-sqlite-framework-2.2.0-18 C:\Users\original\.gradle\caches\transforms-3\3ed2708a8875cd7bba5ba8b8822aa0bf\transformed\sqlite-framework-2.2.0\res
+com.example.myapplication2.app-drawerlayout-1.1.1-19 C:\Users\original\.gradle\caches\transforms-3\3f3d77840c3da60c8778b49211ce8936\transformed\drawerlayout-1.1.1\res
+com.example.myapplication2.app-transition-1.4.1-20 C:\Users\original\.gradle\caches\transforms-3\3f46f23d0fd92cb702ffe80dc209e7a2\transformed\transition-1.4.1\res
+com.example.myapplication2.app-play-services-ads-lite-22.0.0-21 C:\Users\original\.gradle\caches\transforms-3\4b1c9fdeaa1c3f7a417f6498e3b217dc\transformed\play-services-ads-lite-22.0.0\res
+com.example.myapplication2.app-ui-geometry-1.0.3-22 C:\Users\original\.gradle\caches\transforms-3\4f402f587ea5f41dddaf252f049296b2\transformed\ui-geometry-1.0.3\res
+com.example.myapplication2.app-navigation-runtime-2.5.3-23 C:\Users\original\.gradle\caches\transforms-3\550d466cc22ab382a2a3ad0a3e8a063d\transformed\navigation-runtime-2.5.3\res
+com.example.myapplication2.app-constraintlayout-2.1.4-24 C:\Users\original\.gradle\caches\transforms-3\56aaa68860583fb160ba19fcdec9763c\transformed\constraintlayout-2.1.4\res
+com.example.myapplication2.app-coil-base-1.4.0-25 C:\Users\original\.gradle\caches\transforms-3\56dca01133031cd898b08dc45ace81b8\transformed\coil-base-1.4.0\res
+com.example.myapplication2.app-navigation-common-ktx-2.5.3-26 C:\Users\original\.gradle\caches\transforms-3\5870e25395fb532fb69ce66d0ed1bce5\transformed\navigation-common-ktx-2.5.3\res
+com.example.myapplication2.app-runtime-1.0.3-27 C:\Users\original\.gradle\caches\transforms-3\5bb05063ad8f439b0af0e2f83f7f797c\transformed\runtime-1.0.3\res
+com.example.myapplication2.app-lifecycle-livedata-ktx-2.5.1-28 C:\Users\original\.gradle\caches\transforms-3\5c0f3695f3489a147d8ac3a88f7687b7\transformed\lifecycle-livedata-ktx-2.5.1\res
+com.example.myapplication2.app-flexbox-3.0.0-29 C:\Users\original\.gradle\caches\transforms-3\5d29dcf178b3eb85499c6d944346b052\transformed\flexbox-3.0.0\res
+com.example.myapplication2.app-databinding-adapters-7.3.1-30 C:\Users\original\.gradle\caches\transforms-3\61431a15fd2f660a4fbe440537fc6f27\transformed\databinding-adapters-7.3.1\res
+com.example.myapplication2.app-material-1.6.1-31 C:\Users\original\.gradle\caches\transforms-3\6ba28c47e07b942d6fcf4fd862cbc4d3\transformed\material-1.6.1\res
+com.example.myapplication2.app-lifecycle-livedata-core-ktx-2.5.1-32 C:\Users\original\.gradle\caches\transforms-3\6c9aa3d6dc69bbeb9d02ffe3a7a4817b\transformed\lifecycle-livedata-core-ktx-2.5.1\res
+com.example.myapplication2.app-ui-util-1.0.3-33 C:\Users\original\.gradle\caches\transforms-3\6f69fd2521f0c5fb787e8d36d79d1905\transformed\ui-util-1.0.3\res
+com.example.myapplication2.app-sqlite-2.2.0-34 C:\Users\original\.gradle\caches\transforms-3\71c863f0ed3888213bce0debd93dbc4e\transformed\sqlite-2.2.0\res
+com.example.myapplication2.app-lifecycle-viewmodel-2.5.1-35 C:\Users\original\.gradle\caches\transforms-3\75bab09b02f34a102dc6333b9626dc0c\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.myapplication2.app-activity-ktx-1.5.1-36 C:\Users\original\.gradle\caches\transforms-3\789a914bc427b5098e6e224d7a65fb28\transformed\activity-ktx-1.5.1\res
+com.example.myapplication2.app-browser-1.4.0-37 C:\Users\original\.gradle\caches\transforms-3\7fea9a0ad613d775b708bf94cb64f6dd\transformed\browser-1.4.0\res
+com.example.myapplication2.app-lifecycle-service-2.4.0-38 C:\Users\original\.gradle\caches\transforms-3\86a5a90ead62eb8f4320c6dc777d55a0\transformed\lifecycle-service-2.4.0\res
+com.example.myapplication2.app-lifecycle-viewmodel-ktx-2.5.1-39 C:\Users\original\.gradle\caches\transforms-3\8d8049efd872d09389324828cb7278fd\transformed\lifecycle-viewmodel-ktx-2.5.1\res
+com.example.myapplication2.app-lottie-3.4.0-40 C:\Users\original\.gradle\caches\transforms-3\8e3cace688c1294a348676663c254614\transformed\lottie-3.4.0\res
+com.example.myapplication2.app-ssp-android-1.1.0-41 C:\Users\original\.gradle\caches\transforms-3\90395617d310cf349a610ac1356f339a\transformed\ssp-android-1.1.0\res
+com.example.myapplication2.app-ui-graphics-1.0.3-42 C:\Users\original\.gradle\caches\transforms-3\9679814a277eb610c843e14b06642d07\transformed\ui-graphics-1.0.3\res
+com.example.myapplication2.app-navigation-runtime-ktx-2.5.3-43 C:\Users\original\.gradle\caches\transforms-3\974d7d29dfbfe5c87ded9126729ae362\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.myapplication2.app-sdp-android-1.1.0-44 C:\Users\original\.gradle\caches\transforms-3\97eac8876a3cc291948a8f6f0d33e415\transformed\sdp-android-1.1.0\res
+com.example.myapplication2.app-navigation-common-2.5.3-45 C:\Users\original\.gradle\caches\transforms-3\a239a0b182a3efcddc9e750692c87ee5\transformed\navigation-common-2.5.3\res
+com.example.myapplication2.app-annotation-experimental-1.1.0-46 C:\Users\original\.gradle\caches\transforms-3\a250f513a00cb0a50b5f978f0f69ec2c\transformed\annotation-experimental-1.1.0\res
+com.example.myapplication2.app-ui-unit-1.0.3-47 C:\Users\original\.gradle\caches\transforms-3\a26e3691a7644a854452786eaadaf6e1\transformed\ui-unit-1.0.3\res
+com.example.myapplication2.app-databinding-runtime-7.3.1-48 C:\Users\original\.gradle\caches\transforms-3\a8d9e59e8a5ea9249e2aa8eb8312256c\transformed\databinding-runtime-7.3.1\res
+com.example.myapplication2.app-savedstate-1.2.0-49 C:\Users\original\.gradle\caches\transforms-3\abdf06f41c1f0faecb39c9a40fe04bc8\transformed\savedstate-1.2.0\res
+com.example.myapplication2.app-lifecycle-viewmodel-savedstate-2.5.1-50 C:\Users\original\.gradle\caches\transforms-3\b2db224222e51f34c709e4e7652a0d22\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.myapplication2.app-cardview-1.0.0-51 C:\Users\original\.gradle\caches\transforms-3\bc6e86ebd43519ae4f896273d2fc7c13\transformed\cardview-1.0.0\res
+com.example.myapplication2.app-window-1.0.0-52 C:\Users\original\.gradle\caches\transforms-3\bd8e021bc65404ae1434c4190fdb65ef\transformed\window-1.0.0\res
+com.example.myapplication2.app-play-services-basement-18.0.0-53 C:\Users\original\.gradle\caches\transforms-3\bdb93aaded02c3e30b5997e7b09547e2\transformed\play-services-basement-18.0.0\res
+com.example.myapplication2.app-navigation-ui-ktx-2.5.3-54 C:\Users\original\.gradle\caches\transforms-3\be0f02ad2a1d308a54fed4dd4ddd1c44\transformed\navigation-ui-ktx-2.5.3\res
+com.example.myapplication2.app-glide-4.12.0-55 C:\Users\original\.gradle\caches\transforms-3\c22ee0fbae5ff1d7aa94f8afac8d21ca\transformed\glide-4.12.0\res
+com.example.myapplication2.app-ui-text-1.0.3-56 C:\Users\original\.gradle\caches\transforms-3\c4b1a33af353b322b27c47ea0f684a52\transformed\ui-text-1.0.3\res
+com.example.myapplication2.app-lifecycle-runtime-ktx-2.5.1-57 C:\Users\original\.gradle\caches\transforms-3\c513cb4821119f4c3280be0776df7a2d\transformed\lifecycle-runtime-ktx-2.5.1\res
+com.example.myapplication2.app-core-ktx-1.8.0-58 C:\Users\original\.gradle\caches\transforms-3\ca4a9c65731200d36dfb0fa92a88b0ce\transformed\core-ktx-1.8.0\res
+com.example.myapplication2.app-mediation-test-suite-3.0.0-59 C:\Users\original\.gradle\caches\transforms-3\d525cd3d6fc7aabc952658dc16f0d87a\transformed\mediation-test-suite-3.0.0\res
+com.example.myapplication2.app-play-services-base-18.0.0-60 C:\Users\original\.gradle\caches\transforms-3\dea998b763165ec44c76e35ee8e8224e\transformed\play-services-base-18.0.0\res
+com.example.myapplication2.app-runtime-saveable-1.0.3-61 C:\Users\original\.gradle\caches\transforms-3\e19a256b0d4353fce7c1ff34c1cd82de\transformed\runtime-saveable-1.0.3\res
+com.example.myapplication2.app-room-runtime-2.4.3-62 C:\Users\original\.gradle\caches\transforms-3\e266fd16f4eb2aef4bcf56760d7753f7\transformed\room-runtime-2.4.3\res
+com.example.myapplication2.app-ui-1.0.3-63 C:\Users\original\.gradle\caches\transforms-3\ee1be839ac11447549a123e5e9929f7a\transformed\ui-1.0.3\res
+com.example.myapplication2.app-work-runtime-2.7.0-64 C:\Users\original\.gradle\caches\transforms-3\f1c6e862d95c89f77b4880f33715c9a5\transformed\work-runtime-2.7.0\res
+com.example.myapplication2.app-profileinstaller-1.0.3-65 C:\Users\original\.gradle\caches\transforms-3\f4b3bdfc837f747882b383074a906dcf\transformed\profileinstaller-1.0.3\res
+com.example.myapplication2.app-navigation-ui-2.5.3-66 C:\Users\original\.gradle\caches\transforms-3\f4bda6ce93353ae0d4775a856ec26d65\transformed\navigation-ui-2.5.3\res
+com.example.myapplication2.app-navigation-fragment-ktx-2.5.3-67 C:\Users\original\.gradle\caches\transforms-3\f7389e08a3d5caa83b1ce4f4cfc1fd61\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.myapplication2.app-activity-1.5.1-68 C:\Users\original\.gradle\caches\transforms-3\f95ff40b987f79f64f38b5c997b1b423\transformed\activity-1.5.1\res
+com.example.myapplication2.app-navigation-fragment-2.5.3-69 C:\Users\original\.gradle\caches\transforms-3\fa399a5c640694d4b4c1c313120da9e1\transformed\navigation-fragment-2.5.3\res
+com.example.myapplication2.app-appcompat-resources-1.5.1-70 C:\Users\original\.gradle\caches\transforms-3\fa74031c71430241752b2cb8fcf8115d\transformed\appcompat-resources-1.5.1\res
+com.example.myapplication2.app-pngs-71 D:\Book Store\app\build\generated\res\pngs\debug
+com.example.myapplication2.app-resValues-72 D:\Book Store\app\build\generated\res\resValues\debug
+com.example.myapplication2.app-rs-73 D:\Book Store\app\build\generated\res\rs\debug
+com.example.myapplication2.app-packageDebugResources-74 D:\Book Store\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication2.app-packageDebugResources-75 D:\Book Store\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication2.app-merged_res-76 D:\Book Store\app\build\intermediates\merged_res\debug
+com.example.myapplication2.app-debug-77 D:\Book Store\app\src\debug\res
+com.example.myapplication2.app-main-78 D:\Book Store\app\src\main\res

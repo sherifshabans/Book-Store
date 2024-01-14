@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:background="#DDDBD6"
+
+    >
+<!--
+<androidx.cardview.widget.CardView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDBD6"
+    >-->
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DDDBD6"
+android:orientation="vertical"
+    >
+
+<Button
+    android:layout_marginTop="50dp"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+android:text="TOP10BOOK"
+   android:background="@drawable/allbook"
+    android:textSize="25dp"
+    android:padding="8dp"
+
+    />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/allbook"
+            android:padding="8dp"
+            android:text="TOP10AUthor"
+            android:textSize="25dp"
+
+            />
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ALL Book"
+            android:background="@drawable/allbook"
+            android:textSize="25dp"
+            android:padding="8dp"
+
+            />
+        <Button
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ALL AUthor"
+            android:background="@drawable/allbook"
+            android:textSize="25dp"
+            android:padding="8dp"
+            />
+<Button
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ALL AUthor"
+            android:background="@drawable/allbook"
+            android:textSize="25dp"
+            android:padding="8dp"
+            />
+
+
+
+
+</LinearLayout>
+<!--
+</androidx.cardview.widget.CardView>
+-->
+</ScrollView>

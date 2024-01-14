@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/signup"
+
+
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+android:text="Create Account"
+        android:textSize="45dp"
+        android:textColor="@color/black"
+        android:layout_marginBottom="40dp"
+
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="Enter Your Name"
+        android:textColorHint="#0E0D09"
+        android:inputType="textEmailAddress"
+        android:background="@drawable/editetext_back"
+        android:paddingHorizontal="20dp"
+        android:textSize="20dp"
+        android:id="@+id/nameidsignup"
+
+        />
+    <EditText
+        android:id="@+id/wrongnameidsingup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="0dp"
+        android:text="Please enter a valid Name"
+        android:textColor="#D60909"
+        android:layout_gravity="left"
+        android:textSize="15dp"
+        android:layout_marginHorizontal="20dp"
+        android:visibility="invisible"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="Enter Your Email"
+        android:textColorHint="#0E0D09"
+        android:inputType="textEmailAddress"
+        android:background="@drawable/editetext_back"
+        android:paddingHorizontal="20dp"
+        android:textSize="20dp"
+        android:onClick="enteryouremail"
+        android:id="@+id/emailidsignup"
+
+        />
+    <EditText
+        android:id="@+id/emailwrongsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="0dp"
+        android:text="Please enter a valid Email"
+        android:textColor="#D60909"
+        android:layout_gravity="left"
+        android:textSize="15dp"
+        android:layout_marginHorizontal="20dp"
+        android:visibility="invisible"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="20dp"
+        android:paddingHorizontal="20dp"
+        android:layout_marginHorizontal="20dp"
+        android:hint="Enter Your Passward"
+        android:textColorHint="#0E0D09"
+        android:inputType="textPassword"
+        android:id="@+id/passidsignup"
+        android:onClick="passward"
+        android:background="@drawable/editetext_back"
+        android:textSize="20dp"
+        />
+    <EditText
+        android:id="@+id/passwrongsignup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="0dp"
+        android:text="Please enter a valid  passward"
+        android:textColor="#D60909"
+        android:layout_gravity="left"
+        android:layout_marginHorizontal="20dp"
+        android:visibility="invisible"
+        android:textSize="15dp"
+
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sign Up"
+        android:textSize="30dp"
+android:background="@drawable/signupbutton"
+        android:padding="8dp"
+        android:onClick="signUpclick"
+        />
+
+
+
+</LinearLayout>
